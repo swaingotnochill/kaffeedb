@@ -12,8 +12,3 @@ KaffeeDB is a SQLite based hobby database with a SQL parser and a query optimize
 - [] Query Optimizer.
 
 
-## Create and Manipulate B-Trees.
-
-
-
-
